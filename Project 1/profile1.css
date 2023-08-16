@@ -1,0 +1,325 @@
+* {
+    box-sizing: border-box;
+    margin: auto;
+}
+.header{
+    max-width: 1200px;
+    margin: auto;
+    padding: 20px;
+}
+
+.container {
+    max-width: 1200px;
+    margin: auto;
+    padding: 20px;
+}
+
+.headers {
+    text-align: left;
+}
+
+.a {
+    color: gray;
+}
+
+.b {
+    color: rgb(101, 101, 192);
+    position: relative;
+    bottom: 19px;
+    left: 125px;
+}
+
+.c {
+    text-decoration: none;
+    color: white;
+    background-color: rgb(105, 105, 190);
+    position: relative;
+    bottom: 40px;
+    left: 1000px;
+    padding: 3px;
+    padding-left: 10px;
+    padding-right: 8px;
+    border-radius: 5px;
+
+}
+
+.im {
+    border-radius: 50%;
+    border: solid black 1px;
+    position: relative;
+    left: 500px;
+    bottom: 60px;
+    background-color: burlywood;
+    width: 140px;
+    height: 140px;
+    
+}
+
+.de {
+    height: 150px;
+    background-image: linear-gradient(to left, purple, orange);
+}
+
+.n {
+    font-size: 28px;
+    text-align: center;
+    position: relative;
+    bottom: 63px;
+}
+
+.m {
+    color: gray;
+    text-align: center;
+    position: relative;
+    bottom: 63px;
+}
+
+
+
+.pg {
+    width: 100px;
+    border-bottom: solid gray 1px;
+    position: relative;
+    bottom: 60px;
+    display: flex;
+    padding-right: 100%;
+}
+
+.pm {
+    flex: 1;
+    color: gray;
+    text-align: center;
+    padding: 8px;
+}
+
+.pt {
+    flex: 1;
+    color: rgb(84, 84, 202);
+    text-align: center;
+    border-bottom: solid rgb(58, 58, 156) 3px;
+    padding: 8px;
+}
+
+.main{
+    display: flex;
+}
+
+.cmain-1{
+    float: left;
+    position: absolute;
+
+}
+.cmain-2{
+    padding-left: 60%;
+    
+    
+}
+
+.card{
+    max-width: 400px;
+    border-radius: 5px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 4px 8px rgba(36, 35, 35, 0.1);
+    overflow: hidden;
+    float:left;
+    padding: 20px;
+    margin-left: -10%;
+    margin-top: -5%;
+
+    
+}
+
+.card3{
+    max-width: 400px;
+    border-radius: 5px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 4px 8px rgba(36, 35, 35, 0.1);
+    overflow: hidden;
+    float: left;
+    padding: 20px;
+    margin-top: -3%;
+    margin-left: -10%;
+    margin-top: -5%;
+}
+
+ 
+
+.ptc{
+    padding-top: 10px;
+    
+}
+
+.tmain{
+display: flex;
+padding-top: 10px;
+ }
+.t1{
+    float: left;
+    position: absolute;
+}
+.t2{
+    padding-left: 60%;
+}
+
+#file{
+    width: 100%;
+}
+.avatar img {
+    border-radius: 50%;
+    position: relative;
+    left: -5px;
+    z-index: 1;
+    
+    
+}  
+
+
+
+.avatars{
+    display: flex;
+    float: left;
+    flex-direction: row;
+}
+
+.fafa{
+    padding-left: 65%;
+    flex-direction: row;
+    display: flex;
+}
+
+.tex{
+    font-size: 12px;
+    color: #636262;
+    padding-left: 5%;
+}
+
+.card2{
+    
+    max-width: 400px;
+    border-radius: 5px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 4px 8px rgba(36, 35, 35, 0.1);
+    overflow: hidden;
+    padding: 20px;
+    padding-right: 25px;
+    margin-bottom: 45px;
+    margin-left: -10%;
+    margin-top: -5%;
+   
+    
+}
+
+.ptc{
+    padding-top: 10px;
+    
+}
+
+.tmain{
+display: flex;
+padding-top: 10px;
+ }
+.t1{
+    float: left;
+    position: absolute;
+}
+.t2{
+    padding-left: 60%;
+}
+
+#file{
+    width: 100%;
+}
+.avatar img {
+    border-radius: 50%;
+    position: relative;
+    left: -5px;
+    z-index: 1;
+    
+    
+}  
+
+.left-box{
+    display: flex;
+    justify-content: end;
+
+}
+.content{
+    display: flex;
+    justify-content: space-between;
+}
+
+.content   .four {
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.boxes{
+    margin-left: 190px;
+}
+
+.four{
+    width: 300px;
+    padding-left: 0;
+    margin-left: 0;
+    float: left;
+    padding-right: px;
+    position: relative;
+    bottom: 20px;
+    color: #666;
+    
+    
+}
+
+.details{
+    max-width: 2900px;
+    
+}
+
+.card-content {
+    padding-left:10px ;
+    padding-top: 20px;
+    
+}
+
+.line{
+    border-bottom:dotted;
+    padding-top: 10px;
+    color: #666;
+}
+
+.note{
+    padding-top: 15px;
+}
+
+.card-description {
+    font-size: 13px;
+    color: #666;
+    margin-bottom: 20px;
+    margin-top: 16px;
+}
+
+.parent{
+    width:100%;
+    
+}
+
+.ch{
+    
+    float: left;
+    border-radius: 20%;
+    padding: 10px;
+  }
+
+.card-content4{
+
+    position: relative;
+    right: 70px;
+    bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 1px 1px;
+    height: 436px;
+    width: 350px;
+    padding-left: 10px;
+    
+}
